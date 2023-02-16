@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started: -->
 - 👋 Hi, I'm @ilhamdanu13
-- 🔭 I’m currently exploring any projects as a Full stack Developer
+- 🔭 I’m currently exploring any projects as a Full Stack Developer
 - 🌱 I’m currently learning Web & Mobile app
-- 👯 I’m looking to collaborate on Web & Mobile app
+- 👯 I’m looking to collaborate on Web & Mobile app projects
 - 💬 Ask me about anything
 - 📫 How to reach me: ilham.danu13.id@gmail.com
 - ⚡ Fun fact: I love code, and game
