@@ -18,4 +18,4 @@ Here are some ideas to get you started: -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilhamdanu13&theme=vue) 
 
-![Danu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamdanu13&show_icons=true&theme=vue) [![GitHub Streak](https://streak-stats.demolab.com/?user=ilhamdanu13&1&theme=vue)](https://git.io/streak-stats)
+![Danu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhamdanu13&show_icons=true&theme=vue)[![GitHub Streak](https://streak-stats.demolab.com/?user=ilhamdanu13&1&theme=vue)](https://git.io/streak-stats)
