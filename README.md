@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 
 ## Language and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,redux,tailwind,react,next,html,css,express,nodejs,postgres,supabase,postman,vscode,androidstudio&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,redux,tailwind,react,next,html,css,express,nodejs,postgres,mysql,supabase,postman,vscode,androidstudio,python,pytorch,vercel,firebase,netlify&theme=dark)](https://skills.thijs.gg)
 
 ## Stats
 
